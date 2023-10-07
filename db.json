@@ -15,5 +15,20 @@
     "lite_viewer": true,
     "globe_viewer": false,
     "studio": true
+  },
+  "teststudio": {
+    "lite_viewer": false,
+    "globe_viewer": false,
+    "studio": true
+  },
+  "testglobeviewer": {
+    "lite_viewer": false,
+    "globe_viewer": true,
+    "studio": false
+  },
+  "testliteviewer": {
+    "lite_viewer": true,
+    "globe_viewer": false,
+    "studio": false
   }
 }
