@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "versions": {
+    "lite_viewer": true,
+    "globe_viewer": false,
+    "studio": true
   }
 }
