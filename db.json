@@ -1,7 +1,7 @@
 {
   "versions": {
     "lite_viewer": true,
-    "globe_viewer": false,
+    "globe_viewer": true,
     "studio": true
   },
   "teststudio": {
